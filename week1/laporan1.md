@@ -20,6 +20,7 @@ Setelah halaman website berhasil dibuka, proses capture pada Wireshark kemudian 
 Langkah terakhir adalah melakukan penyaringan paket agar lebih mudah dianalisis. Caranya dengan mengetikkan “http” pada kolom filter di Wireshark. Setelah itu akan muncul paket-paket yang menggunakan protokol HTTP, termasuk paket yang berasal dari website yang sebelumnya kita akses.
 
 #Lampiran
+
 Hasilnya :
 ![Hasilnya](../assets/image/1.png)
 ![Hasilnya](../assets/image/2.png)
