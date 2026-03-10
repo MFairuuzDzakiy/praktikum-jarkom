@@ -1,6 +1,7 @@
 #Laporan Praktikum Jarkom IF
 
 #Langkah-langkah 
+
 1.Membuka aplikasi Wireshark
 Langkah pertama yang dilakukan adalah membuka aplikasi Wireshark dan juga browser. Setelah itu, pilih jaringan Wi-Fi yang sedang digunakan. Kemudian klik kanan pada jaringan tersebut dan pilih Start Capture agar Wireshark mulai menangkap paket data yang lewat di jaringan.
 
